@@ -1,0 +1,6 @@
+gradio==3.27.0
+numpy==1.23.5
+scikit_learn==1.2.2
+tqdm==4.64.1
+transformers==4.26.1
+utils==1.0.1
